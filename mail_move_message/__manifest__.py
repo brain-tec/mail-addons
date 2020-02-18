@@ -3,10 +3,10 @@
     "name": "Mail relocation",
     "version": "10.0.1.0.6",
     "author": "IT-Projects LLC, Ivan Yelizariev, Pavel Romanchenko",
-    "license": "LGPL-3",
+    "license": "Other OSI approved licence",  # MIT
     "category": "Discuss",
     "images": ["images/m1.png"],
-    "support": "apps@it-projects.info",
+    "support": "apps@itpp.dev",
     "website": "https://twitter.com/yelizariev",
     "price": 100.00,
     "currency": "EUR",

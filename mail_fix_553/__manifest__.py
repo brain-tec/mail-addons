@@ -3,9 +3,9 @@
     "name": "Fix mail error 553",
     "version": "10.0.1.0.3",
     "author": "IT-Projects LLC, Ivan Yelizariev",
-    "license": "LGPL-3",
+    "license": "Other OSI approved licence",  # MIT
     "category": "Discuss",
-    "support": "apps@it-projects.info",
+    "support": "apps@itpp.dev",
     "website": "https://yelizariev.github.io",
     "depends": ["base", "mail"],
     "data": ["data.xml"],
