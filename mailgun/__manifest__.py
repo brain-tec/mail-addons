@@ -1,5 +1,5 @@
 # Copyright 2018 Ildar Nasyrov <https://it-projects.info/team/iledarn>
-# License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl.html).
+# License MIT (https://opensource.org/licenses/MIT).
 {
     "name": """Mailgun""",
     "summary": """Setup the outgoing and incoming mail flow easily by using Mailgun""",
@@ -9,9 +9,9 @@
     "version": "11.0.1.1.0",
     "application": False,
     "author": "IT-Projects LLC, Ildar Nasyrov",
-    "support": "apps@it-projects.info",
+    "support": "apps@itpp.dev",
     "website": "https://it-projects.info/team/iledarn",
-    "license": "LGPL-3",
+    "license": "Other OSI approved licence",  # MIT
     "price": 195.00,
     "currency": "EUR",
     "depends": ["mail"],
